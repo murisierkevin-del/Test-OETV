@@ -36,6 +36,11 @@
   "id": "oetv-annexes-reglements",
   "name": "OETV – Annexes et règlements CEE-ONU",
   "file": "themes/oetv-annexes-reglements.json"
+    },
+    {
+  "id": "psychologie",
+  "name": "Psychologie",
+  "file": "themes/psychologie.json"
 }
   ]
 }
