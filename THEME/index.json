@@ -3,25 +3,10 @@
   "generated_at": "2026-01-28T10:16:00.469599Z",
   "themes": 
   [
-  {
-      "id": "profil",
-      "name": "Profil",
-      "file": "themes/profil.json"
-    },
      {
       "id": "oral",
       "name": "Oral",
       "file": "themes/ORAL.json"
-    },
-    {
-      "id": "feux_catadioptres",
-      "name": "Feux & catadioptres",
-      "file": "themes/feux_catadioptres.json"
-    },
-    {
-  "id": "oetv-annexes-reglements",
-  "name": "OETV – Annexes et règlements CEE-ONU",
-  "file": "themes/oetv-annexes-reglements.json"
 }
   ]
 }
