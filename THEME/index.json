@@ -3,8 +3,7 @@
   "generated_at": "2026-01-28T10:16:00.469599Z",
   "themes": 
   [
-},
-    {
+  {
       "id": "profil",
       "name": "Profil",
       "file": "themes/profil.json"
