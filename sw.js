@@ -1,5 +1,5 @@
-const CACHE_NAME = "cours-asa-shell-v13";
-const RUNTIME_CACHE = "cours-asa-runtime-v2";
+const CACHE_NAME = "cours-asa-shell-v14";
+const RUNTIME_CACHE = "cours-asa-runtime-v3";
 
 const SHELL_ASSETS = [
   "./",
