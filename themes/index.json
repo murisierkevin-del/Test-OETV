@@ -5,7 +5,7 @@
     {
       "id": "oral",
       "name": "Oral",
-      "file": "THEMES/Oral.json"
+      "file": "themes/Oral.json"
     }
   ]
 }
