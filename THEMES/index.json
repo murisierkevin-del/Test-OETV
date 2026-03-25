@@ -4,8 +4,8 @@
   "themes": [
     {
       "id": "oral",
-      "name": "ORAL",
-      "file": "THEME/ORAL.json"
+      "name": "Oral",
+      "file": "THEMES/Oral.json"
     }
   ]
 }
