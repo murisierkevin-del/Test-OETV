@@ -1,10 +1,10 @@
 {
-  "version": "25.03.26",
+  "version": "25.03.27",
   "generated_at": "2026-01-28T10:16:00.469599Z",
   "themes": [
     {
       "id": "oral",
-      "name": "Oral",
+      "name": "ORAL",
       "file": "THEMES/Oral.json"
     }
   ]
