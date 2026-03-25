@@ -1,0 +1,82 @@
+
+{
+  "id": "oral",
+  "name": "Oral",
+  "cards": [
+    {
+      "id": "q001",
+      "q": "**Quelle est le champ d'application et la structure de l'OETV ?**",
+      "a": "a) les critères de classification des véhicules routiers\nb) le contrôle en vue de l'immatriculation, le contrôle subséquent et le service antipollution des véhicules routiers\nc) les exigences techniques requises pour les véhicules routiers\nPartie 1 Dispositions générales (Art 1-28)\nPartie 2 Immatriculation contrôle subséquent service antipollution (29-36)\nPartie 3 Exigences techniques (36-219)\nPartie 4 Dispositions finales (220-223)\nPartie 5 Annexes 1 à 12"
+    },
+    {
+      "id": "q002",
+      "q": "**Pouvez-vous développer la partie 2 immatriculation contrôle subséquent services antipollution ?**",
+      "a": "Article 30 Contrôle des véhicules neufs contrôle administratif\nArticle 30A Contrôle d'identification et contrôle de fonctionnement IVI\nArticle 30B Examen technique approfondi\nArticle 30C Examen technique de composants ou de modifications\nArticle 32 Contrôle garage"
+    },
+    {
+      "id": "q003",
+      "q": "**OETV article 117 quels sont les critères pour limiter la vitesse maximale et quelle est la signalisation ?**",
+      "a": "Les voitures automobiles dont la vitesse maximale est inférieure à 80 doivent porter un disque de vitesse visible à l'arrière\nLa vitesse maximale doit être inscrite dans le permis de circulation"
+    },
+    {
+      "id": "q004",
+      "q": "**Expliquer le chiffre 118 de la ASA ?**",
+      "a": "Véhicules avec vitesse inférieure à 80\nArrondi au 5 supérieur\nExemple 31 → 35 kmh\nEntre 76 et 79 → disque 75"
+    },
+    {
+      "id": "q005",
+      "q": "**OETV44 Identification du véhicule Quelles sont les prescriptions ?**",
+      "a": "Plaquette en matière durable\nVéhicules en plusieurs étapes → deux plaquettes\nVéhicules sans réception CE\nNuméro frappé ou gravé visible\nMême emplacement pour tous les véhicules du type"
+    },
+    {
+      "id": "q006",
+      "q": "**OETV article 44 quelles sont les exigences d'identification du véhicule ?**",
+      "a": "Plaquette durable\nDeux plaquettes pour véhicules multi-étapes\nNuméro gravé visible\nMême emplacement pour tous"
+    },
+    {
+      "id": "q007",
+      "q": "**Quelles sont les exigences pour la marche arrière ?**",
+      "a": "Véhicules > 200 kg → dispositif obligatoire\nVéhicules électriques → possible"
+    },
+    {
+      "id": "q008",
+      "q": "**Est-ce que l'OAC touche les véhicules ou uniquement les permis de conduire ?**",
+      "a": "Touche aussi experts circulation\nArticles 65-69 experts\n71-81 véhicules\n82-87 plaques\n90-97 cyclomoteurs"
+    },
+    {
+      "id": "q009",
+      "q": "**À quoi sert le formulaire 1320B ?**",
+      "a": "Rapport d'expertise pour modifications techniques"
+    },
+    {
+      "id": "q010",
+      "q": "**Citez deux exemples de contrôles extraordinaires que le détenteur doit annoncer ?**",
+      "a": "Modification classification\nModification dimensions ou poids\nModification échappement\nModification roues\nDispositif attelage"
+    },
+    {
+      "id": "q011",
+      "q": "**Article 43 Quelles sont les exigences de la charge de toit IVI ?**",
+      "a": "50 kg max\nPossible plus avec autorisation\nChamp 55 vide\nChamp 102 non inscrit"
+    },
+    {
+      "id": "q012",
+      "q": "**Qu'est-ce que les dispositions transitoires ?**",
+      "a": "Règlent le passage ancien droit → nouveau droit"
+    },
+    {
+      "id": "q013",
+      "q": "**Quelles sont les conditions pour les feux diurnes ?**",
+      "a": "Deux feux blancs\nHomologation RL\nRLA = aussi position\nAttention hauteur"
+    },
+    {
+      "id": "q014",
+      "q": "**Comment branche-t-on les feux diurnes ?**",
+      "a": "Allumage automatique\nExtinction avec feux croisement sauf appel de phare"
+    },
+    {
+      "id": "q015",
+      "q": "**Comment les feux diurnes doivent être positionnés ?**",
+      "a": "Avant du véhicule\nDistance 60 cm si >1.30 m\nHauteur 0.25 à 1.50 m\nDistance clignoteur >40 mm"
+    }
+  ]
+}
