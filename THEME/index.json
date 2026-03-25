@@ -1,11 +1,11 @@
 {
   "version": "25.03.26",
   "generated_at": "2026-01-28T10:16:00.469599Z",
-  "themes": [
+  "theme": [
     {
       "id": "oral",
       "name": "Oral",
-      "file": "themes/oral.json"
+      "file": "theme/oral.json"
     }
   ]
 }
