@@ -1,0 +1,316 @@
+{
+  "id": "oral",
+  "name": "Oral",
+  "cards": [
+    {
+      "id": "q001",
+      "q": "**Quelle est le champ d'application et la structure de l'OETV ?**",
+      "a": "La présente ordonnance règle :\na) les critères de classification des véhicules routiers ;\nb) le contrôle en vue de l'immatriculation, le contrôle subséquent et le service antipollution des véhicules routiers ;\nc) les exigences techniques requises pour les véhicules routiers.\nPartie 1 : Dispositions générales (Art. 1-28)\nPartie 2 : Immatriculation, contrôle subséquent, service antipollution (29-36)\nPartie 3 : Exigences techniques (36-219)\nPartie 4 : Dispositions finales (220-223)\nPartie 5 : Annexes 1 à 12."
+    },
+    {
+      "id": "q002",
+      "q": "**Pouvez-vous développer la partie 2, immatriculation, contrôle subséquent, services antipollution ?**",
+      "a": "Article 30. Contrôle des véhicules neufs, contrôle administratif.\nArticle 30A. Contrôle d'identification et contrôle de fonctionnement (IVI).\nArticle 30B. Examen technique approfondi.\nArticle 30C. Examen technique de composants ou de modifications.\nArticle 32. Contrôle garage."
+    },
+    {
+      "id": "q003",
+      "q": "**OETV article 117, quels sont les critères pour limiter la vitesse maximale et quelle est la signalisation ?**",
+      "a": "Les voitures automobiles dont la vitesse maximale due par leur construction et en raison d'une décision de l'autorité du Conseil fédéral est inférieure à 80 doivent porter bien visiblement à l'arrière un disque indiquant la vitesse en chiffres. La vitesse maximale doit être écrite dans le permis de circulation."
+    },
+    {
+      "id": "q004",
+      "q": "**Expliquer le chiffre 118 de la ASA ?**",
+      "a": "Ça concerne les véhicules qui, en raison de leur construction, peuvent atteindre une vitesse inférieure à 80, excepté les motocyclettes légers et les quadricycles légers à moteur. Le nombre de kilomètres heure doit toujours être arrondi au 5 supérieur sur le disque indiquant la vitesse. Par exemple, vitesse max de 31, le disque doit être de 35 km heure. Lors d'une vitesse max entre 76 et 79, il faut utiliser un disque indiquant 75."
+    },
+    {
+      "id": "q005",
+      "q": "**OETV44 Identification du véhicule Quelles sont les prescriptions ?**",
+      "a": "Une plaquette en matière durable, deux, les véhicules immatriculés selon la procédure de réception par type CE en plusieurs étapes, trois, sur les véhicules qui ne bénéficient aucune réception par type CE, type CE, quatre, le numéro d'identification du véhicule doit aussi être frappé ou gravé de manière bien visible sur le châssis, sur le cadre ou sur un autre composant équivalent du véhicule. Ce numéro doit figurer au même endroit sur tous les véhicules du même type.\nOTV, article 44, quelles sont les exigences d'identification du véhicule ? Numéro 1, il faut une plaquette en matière durable. 2, les véhicules immatriculés en plusieurs étapes, comme les camping-cars, doivent avoir deux plaquettes pour les deux étapes avec les modifications qu'il y a sur chaque étape. 3, sur les véhicules qui ne bénéficient d'aucune réception par type. 4, le numéro d'identification du véhicule doit être frappé ou gravé de manière bien visible sur le châssis, sur le cadre ou sur un autre composant. Et il doit figurer au même endroit sur tous les véhicules du même type."
+    },
+    {
+      "id": "q006",
+      "q": "**Quelles sont les exigences pour la marche arrière ?**",
+      "a": "Les voitures automobiles de plus de 200 kg doivent être munies d'un dispositif de marche arrière. Les voitures automobiles électriques peuvent être équipées d'un dispositif permettant de reculer."
+    },
+    {
+      "id": "q007",
+      "q": "**Est-ce que l'OAC touche les véhicules ou uniquement les permis de conduire ?**",
+      "a": "Il touche aussi les experts de la circulation, articles 65 à 69, les véhicules et remorques, articles 71 et 81, les plaques de contrôle, articles 82 à 87, les cyclomoteurs, articles 90 à 97."
+    },
+    {
+      "id": "q008",
+      "q": "**À quoi sert le formulaire 1320B ?**",
+      "a": "C'est un rapport d'expertise spécial, il est nécessaire pour annoncer des modifications techniques apportées à un véhicule."
+    },
+    {
+      "id": "q009",
+      "q": "**Citez deux exemples de contrôles extraordinaires que le détenteur est tenu d'informer l'autorité. ?**",
+      "a": "Une modification sur la classification des véhicules\nmodification des dimensions de l'empattement, de la voie, du poids\nmodification d'échappement non réceptionnée\nmodification de roues non réceptionnées, montage d'un dispositif d'attelage."
+    },
+    {
+      "id": "q010",
+      "q": "**Article 43. Quelles sont les exigences de la charge de toit IVI ?**",
+      "a": "Le poids des porte-charges de toit peut atteindre 50 kg maximum. Se fondant sur une garantie du constructeur, l'autorité d'immatriculation peut autoriser un poids plus élevé par une inscription dans le permis de circulation. Pour les véhicules IVI admis à la circulation, le champ 55 restera vide et le 102 ne sera pas inscrit."
+    },
+    {
+      "id": "q011",
+      "q": "**Qu'est-ce que les dispositions transitoires ?**",
+      "a": "Elles régissent... Non, excuse-moi, ça tu peux enlever. Elles régissent le passage de l'ancien droit au nouveau droit et le champ d'application de chacun d'eux."
+    },
+    {
+      "id": "q012",
+      "q": "**Quelles sont les conditions et dispositions pour les feux diurnes ?**",
+      "a": "C'est un feu dirigé vers l'avant qui sert à rendre le véhicule visible en conduite de jour. Il en a deux de couleur blanche et il doit avoir l'indication d'homologation RL écrite dessus. Si c'est écrit RLA, ça veut dire qu'il fait aussi position et il faut faire attention à la hauteur qui peut être fixée sur le véhicule."
+    },
+    {
+      "id": "q013",
+      "q": "**Comment branche-t-on les feux diurnes ?**",
+      "a": "Les feux diurnes doivent s'allumer automatiquement au plus tard lorsqu'après l'enclenchement d'allumage, le véhicule commence à rouler.\nles feux diurnes doivent s'éteindre automatiquement lors de l'enclenchement des feux de croisement ou de route, sauf en appel de phare."
+    },
+    {
+      "id": "q014",
+      "q": "**Comment les feux diurnes doivent être positionnés sur le véhicule ?**",
+      "a": "Point d'interrogation. Sur la partie avant du véhicule, Pour une largeur de véhicule supérieure à 1,30 m, 60 cm entre les deux feux. Hauteur par rapport au sol, minimum 0,25 m et le bord supérieur, 1,50 m. La distance par rapport au clignoteur de direction, elle doit être plus grande que 40 mm."
+    },
+    {
+      "id": "q015",
+      "q": "**Quelles sont les périodicités des contrôles de véhicules ?**",
+      "a": "Voiture de tourisme, 5 ans, 3 ans, 2 ans. Voiture de livraison, 4 ans, 3 ans, 2 ans. Motocycle, 5 ans, 3 ans, 2 ans."
+    },
+    {
+      "id": "q016",
+      "q": "**Quels véhicules sont soumis au contrôle annuel ?**",
+      "a": "les véhicules affectés au transport professionnel de personnes, transport de marchandises dangereuses."
+    },
+    {
+      "id": "q017",
+      "q": "**Quelles sont les exigences pour le compteur de vitesse ?**",
+      "a": "Le compteur doit être éclairé et doit être visible de 40 km heure à 120. La tolérance pour l'affichage pour les véhicules des catégories M et N, le calcul est de la vitesse radar divisée par 10 plus 6,"
+    },
+    {
+      "id": "q018",
+      "q": "**Selon le droit suisse, quels véhicules sont réputés voitures automobiles de transport ?**",
+      "a": "A transportent choses, y compris les voitures automobiles dont la carrosserie sert de local, ateliers, magasins.\nB transportent personnes, y compris les véhicules servant d'habitation, à condition qu'ils ne comptent pas plus que neuf places assises."
+    },
+    {
+      "id": "q019",
+      "q": "**En quels cas le permis de circulation désigne-t-il simplement le véhicule comme voiture automobile lourde ou légère ?**",
+      "a": "Si ces voitures, par exemple, véhicules d'habitation ou si la carrosserie sert de local."
+    },
+    {
+      "id": "q020",
+      "q": "**À quoi servent les instructions IRE ?**",
+      "a": "Elles sont destinées à faciliter et uniformiser l'établissement des 13.20 A et B. Elles contiennent dispositions générales, des directives pour l'établissement des 13.20, des listes des genres et des formes de carrosserie."
+    },
+    {
+      "id": "q021",
+      "q": "**Est-ce que au champ 27 du permis de circulation, il faut tenir compte des places du compartiment de charge ?**",
+      "a": "Oui, il faut tenir compte des places, c'est le chiffre 128 de la directive 6 de l'ASA.\nQuelles sont les exigences pour les essuie-glaces, lave-glaces, dégivreurs et la ventilation ? Si le conducteur ne peut pas voir facilement en dessus du pare-brise, il doit avoir un essuie-glaces puissant balayant une assez grande surface et un système de lave-glace. Les essuie-glaces doivent avoir 40 mouvements à la minute. Dans les cabines fermées, un dispositif de dégivrage-ventilation doit empêcher la formation de buée et de givre pendant la marche."
+    },
+    {
+      "id": "q022",
+      "q": "**Quels sont les dispositifs d'éclairage obligatoires à l'avant et à l'arrière d'un véhicule de 2017 des catégories M et N ?**",
+      "a": "Les plateformes de levage qui ont une position de travail dépassent de 0,75 m doivent avoir au moins deux feux clignotants avertisseurs."
+    },
+    {
+      "id": "q023",
+      "q": "**À partir de quelle année les plateformes de levage qui, en position de travail, dépassent 0,75 m le contour du véhicule doivent être munies de feux clignotants avertisseurs ?**",
+      "a": "C'est les véhicules M et N à partir de 2017."
+    },
+    {
+      "id": "q024",
+      "q": "**Quels sont les dispositifs d'éclairage obligatoires ?**",
+      "a": "A l'avant, deux feux de route, deux feux de croisement, deux feux de position. A l'arrière, deux feux arrière, deux catadioptres, deux feux de stop ainsi qu'un éclairage de plaque. A l'avant, les véhicules M et N doivent être équipés de deux feux de circulation diurne."
+    },
+    {
+      "id": "q025",
+      "q": "**Quelles sont les exigences pour les rétroviseurs M1 et N1 ?**",
+      "a": "Elles doivent être munies à gauche et à droite extérieurement d'un rétroviseur permettant d'observer facilement la chaussée sur 100 mètres minimum à l'arrière. Sur les véhicules automobiles M1 et N1 munis d'une lunette arrière assez grande qui ne tirent pas de remorque, un rétroviseur intérieur peut remplacer le rétroviseur extérieur droit. Les rétroviseurs doivent être fixés de manière à ne pas vibrer et ne pas refléter une image non bien formée. La surface du miroir doit atteindre au moins 70 centimètres carrés sur les voitures légères."
+    },
+    {
+      "id": "q026",
+      "q": "**Quelles voitures automobiles n'ont pas besoin d'avoir un carnet antipollution ou d'effectuer le système de contrôle antipollution ?**",
+      "a": "Véhicules OBD Euro 3, donc B03 essence et B04 diesel\nimmatriculés avant le 1er janvier 1976\nles véhicules diplomatiques, les véhicules benzine plus petits ou égaux à 50 km heure."
+    },
+    {
+      "id": "q027",
+      "q": "**Quand est-ce qu'on peut baisser la vitesse maximale d'un véhicule après la première mise en circulation ?**",
+      "a": "a) la transformation en véhicule agricole et forestier,\nb) le montage d'un limiteur de vitesse,\nc) adaptation du véhicule à une autre réception par type existante,\nd) les véhicules à voie unique d'une cylindrée inférieure ou égale à 125 cm3 et 11 kW s'ils sont électriques,\ne) l'adaptation du véhicule à une évaluation de conformité ou une attestation de conformité existante."
+    },
+    {
+      "id": "q028",
+      "q": "**Quelles sont les exigences pour les clignoteurs de direction ?**",
+      "a": "Ils doivent être visibles 300 mètres minimum de nuit par temps clair, 100 mètres de jour sans être éblouissant. Ils doivent s'allumer au plus tard une seconde après leur enclenchement ou au battement de 90 plus ou moins 30 battements à la minute. Ils s'allument simultanément de chaque côté, à l'avant, latéralement et à l'arrière, et un témoin doit indiquer le fonctionnement acoustique, optique ou les deux à la fois."
+    },
+    {
+      "id": "q029",
+      "q": "**Quelles sont les exigences pour l'identification et le marquage des pneus ?**",
+      "a": "Les roues doivent être munies de pneumatiques, ou d’autres bandages d’une élasticité semblable, d’une capacité de charge suffisante et adaptés aux jantes.\nLes pneumatiques doivent être adaptés à la vitesse maximale du véhicule. Font exception les pneus d’hiver visés à l’art. 59, al. 3 et 4.325\nTous les pneumatiques d’un véhicule doivent être de même conception (radiaux ou diagonaux).\nLa toile des pneumatiques ne doit être ni abîmée ni apparente. Les pneumatiques doivent présenter un profil d’au moins 1,6 mm sur toute la surface de la bande de roulement."
+    },
+    {
+      "id": "q030",
+      "q": "**Quelle est la décélération minimale des freins de service pour véhicules M1 et N1 ?**",
+      "a": "M1, 5,8 mètres secondes carrés et N1, 5 mètres secondes carrés.\nQuelle est la manière de procéder pour le remplacement des silencieux et des catalyseurs ? Voir la documentation ASA2A AMKT11, Règlement européen OETV53."
+    },
+    {
+      "id": "q031",
+      "q": "**Que règle l'ordonnance ORT ?**",
+      "a": "Elle règle la procédure de la réception par type des véhicules, châssis, systèmes et composants de véhicules, objets d'équipements et dispositifs de protection."
+    },
+    {
+      "id": "q032",
+      "q": "**Quelle est la différence entre une RT, une fiche d'homologation et un COC ?**",
+      "a": "Une RT est une réception par type suisse, elle est depuis l'OETV depuis 1925 et elle a deux lettres. Une fiche d'homologation, c'est avant l'OCE, c'est que des chiffres et le COC, c'est un certificat de conformité européen, c'est une preuve individuelle que le véhicule correspond à une réception internationale."
+    },
+    {
+      "id": "q033",
+      "q": "**Quels véhicules sont dispensés de réception par type ?**",
+      "a": "Les véhicules importés pour un usage personnel."
+    },
+    {
+      "id": "q034",
+      "q": "**Quelles sont les exigences pour les embrayages et la puissance au démarrage ?**",
+      "a": "Les véhicules automobiles et les ensembles de véhicules doivent, en pleine charge, pouvoir démarrer sans difficulté sur une pente à 15 % ou pouvoir démarrer cinq fois en cinq minutes sur une pente à 12 %."
+    },
+    {
+      "id": "q035",
+      "q": "**Quelles sont les exigences pour les signes distinctifs de nationalité, les plaques de contrôle et les signes officiels ?**",
+      "a": "Les véhicules automobiles et les remorques qui vont à l'étranger doivent avoir un signe distinctif de nationalité. Les plaques de contrôle et les signes distinctifs de nationalité doivent être fixés de manière à être bien lisibles, le plus verticalement possible, 30 degrés vers le haut, 15 degrés vers le bas, à une distance du sol de 20 cm, 10 pour M et N le bord inférieur, et à 1,50 m, le bord supérieur, La plaque de contrôle arrière doit être lisible dans l'axe longitudinal du véhicule et de chaque côté avec un angle de 30 degrés."
+    },
+    {
+      "id": "q036",
+      "q": "**Quelles sont les exigences d'éclairage pour le doublement des feux à l'avant ?**",
+      "a": "Voir homologation, montage et branchement."
+    },
+    {
+      "id": "q037",
+      "q": "**Qu'est-ce qu'on contrôle lorsqu'on fait un contrôle périodique obligatoire ?**",
+      "a": "Point d'interrogation. L'identification, les freins, la direction, la visibilité, l'éclairage, l'installation électrique, châssis, essieux, roues, pneumatiques, suspension, comportement d'émission."
+    },
+    {
+      "id": "q038",
+      "q": "**Quelles sont les exigences pour le triangle de panne ?**",
+      "a": "Ils ont un contrôle officiel et doivent être munis d'une marque et se trouver à bord des véhicules automobiles de plus d'un mètre de large, à l'exception des motos, des voitures à bras, des véhicules à chenilles et des remorques attelées à des monoaxes"
+    },
+    {
+      "id": "q039",
+      "q": "**Comment mesure-t-on l'empattement ?**",
+      "a": "L'empattement se mesure normalement à vide, sauf pour les véhicules MN0 au poids total."
+    },
+    {
+      "id": "q040",
+      "q": "**Qu'est-ce que la voie et comment mesure-t-on ?**",
+      "a": "La voie est la distance entre l'appui du pneu au sol entre les deux roues d'un même essieu, véhicule à vide."
+    },
+    {
+      "id": "q041",
+      "q": "**Quels sont les dispositifs d'éclairage obligatoires à l'avant et à l'arrière ?**",
+      "a": "À l'avant, c'est deux feux de position, deux feux de croisement, deux feux de route, deux feux diurnes, deux indicateurs de direction.\nÀ l'arrière, deux feux arrière, deux feux de stop, un feu d'éclairage de plaque et deux clignoteurs de direction."
+    },
+    {
+      "id": "q042",
+      "q": "**Est-ce que les véhicules M et N doivent avoir des feux clignotants avertisseurs ?**",
+      "a": "Oui, les clignoteurs de direction ou les feux de stop, ils peuvent être branchés de manière à ce qu'ils s'allument et s'éteignent simultanément pour l'usage de feux avertisseurs. Ils nécessitent un commutateur séparé, fréquence de battement 90 plus ou moins 30 par minute, un témoin doit être disponible."
+    },
+    {
+      "id": "q043",
+      "q": "**Quelles sont les dispositions pour les pédales ?**",
+      "a": "La pédale de frein doit être à gauche de la pédale des gaz, et la pédale d'embrayage à gauche de la pédale de frein. Les pédales de frein et d'embrayage, elles doivent avoir un antidérapant."
+    },
+    {
+      "id": "q044",
+      "q": "**Quelles sont les exigences pour le recouvrement des roues pour un véhicule M1 ?**",
+      "a": "À l'avant de la roue, 30 degrés depuis le centre de la roue, à l'arrière, 50 degrés, et à l'arrière de la roue, jusqu'à 15 cm en dessus de l'axe de l'essieu."
+    },
+    {
+      "id": "q045",
+      "q": "**Quelles sont les exigences pour les feux de stop supplémentaires ?**",
+      "a": "Un peut être installé à l'arrière ou au milieu, à l'intérieur ou à l'extérieur du véhicule. S'il n'est pas possible, il peut décaler latéralement de 15 cm."
+    },
+    {
+      "id": "q046",
+      "q": "**Qu'est-ce que l'OETV1 ?**",
+      "a": "Il régit la classification des véhicules, exigences techniques et des règlements européens qui sont applicables . Les gaz d'échappement, la propulsion, la transmission, les essieux, la suspension."
+    },
+    {
+      "id": "q047",
+      "q": "**Quelles sont les exigences générales pour l'éclairage et les catadioptres ?**",
+      "a": "Fixer solidement, protéger contre l'eau, la poussière, couleur durable, conforme aux prescriptions internationales. Les feux catadioptriques doivent être montés par paire, doivent être de forme, d'intensité et de couleur identiques, ils doivent être placés symétriquement dans l'axe et à la même distance du sol."
+    },
+    {
+      "id": "q048",
+      "q": "**Qu'est-ce que l'OTR1 et l'OTR2 ?**",
+      "a": "C'est l'ordonnance sur les heures de travail."
+    },
+    {
+      "id": "q049",
+      "q": "**Quelles sont les largeurs des sièges pour les voitures automobiles légères ?**",
+      "a": "60 cm pour le siège conducteur et le siège passager, il faut le mesurer à la hauteur d'épaule, 0,38 pour les passagers avant et 38 cm pour les passagers arrière."
+    },
+    {
+      "id": "q050",
+      "q": "**Quels sont les chiffres en lien avec le dispositif d'attelage ?**",
+      "a": "234, charge remorquable sans frein, charge d'outillement, 239, sont admis lors de l'utilisation d'une remorque, poids total du véhicule tracteur, temps, première essieu, temps, deuxième essieu, temps. 242, dispositif d'attelage autorisé uniquement comme porte-charge."
+    },
+    {
+      "id": "q051",
+      "q": "**Quels sont les chiffres de la directive 6 concernant l'attelage ?**",
+      "a": "234 : Charge remorquable sans frein, charge du timon,\n239. Sont admis lors de l'utilisation d'une remorque, le poids total du véhicule tracteur, premier essieu et deuxième essieu.\n242, dispositifs d'attelage autorisés uniquement comme porte-charge."
+    },
+    {
+      "id": "q052",
+      "q": "**Qu'est-ce que c'est la directive 6 de l'ASA ?**",
+      "a": "Ce sont les inscriptions, les conditions spéciales et les autorisations qu'il faut inscrire dans"
+    },
+    {
+      "id": "q053",
+      "q": "**Quelle est la définition de la voiture automobile ?**",
+      "a": "Ce sont des véhicules qui ont au moins quatre roues, à l'exception des quads légers à moteur, des quads à moteur et voitures à bras équipées d'un moteur,\nles véhicules à trois roues dont le poids dépasse le poids fixé pour les tricycles à moteur,\ndes véhicules à chenilles qui sont pas des véhicules à moteur,"
+    },
+    {
+      "id": "q054",
+      "q": "**Quelles sont les facilités pour les véhicules 45 km/h ?**",
+      "a": "Pneus diagonaux, radios sont admis, pas nécessaire que le frein de service soit à double circuit, pare-brise et cabine pas nécessaires, feux de route pas nécessaires, lave-glace pas nécessaire."
+    },
+    {
+      "id": "q055",
+      "q": "**Peut-on augmenter ou diminuer le poids garanti d'un véhicule ?**",
+      "a": "Le poids garanti, le poids remorquable, le poids d'ensemble, la charge par essieux nécessite une nouvelle garantie constructeur.\nIl est interdit d'apporter une modification qui modifie en diminution le poids garanti. L'adaptation d'un véhicule à une réception par type ou une fiche de données existante est admise."
+    },
+    {
+      "id": "q056",
+      "q": "**Exigences de carrosserie de véhicules. ?**",
+      "a": "Quand elles sont basculantes, les cabines et superstructures doivent être assurées pour un retour à la position normale. Les installations sanitaires ne doivent déverser aucun liquide et déchet sur la chaussée. Les portes de toit doivent se fermer silencieusement et les freins et les panneaux publicitaires et tous les engins ne doivent pas faire des bruits pouvant éviter."
+    },
+    {
+      "id": "q057",
+      "q": "**Quelles sont les exigences pour le pare-brise et l'habitacle ?**",
+      "a": "Les voitures automobiles doivent avoir un pare-brise. Les voitures automobiles légères, le pare-brise doit être en verre feuilleté."
+    },
+    {
+      "id": "q058",
+      "q": "**Peut-on mettre une bande sur le pare-brise ?**",
+      "a": "Une bande anti éblouissement ou une inscription sont autorisées si le conducteur peut observer sans difficulté un objet à une hauteur minimale de 4 mètres à une distance de 12 mètres lorsque ses yeux sont à une hauteur de 75 cm du siège."
+    },
+    {
+      "id": "q059",
+      "q": "**Quelle inscription doit être sur un attelage clairement lisible ?**",
+      "a": "Une marque de réception internationale avec le nom du constructeur ou la marque de fabrique, la charge max sur le timon S, la force théorique D,"
+    },
+    {
+      "id": "q060",
+      "q": "**Quelles sont les exigences ou conditions pour le dispositif d'éclairage ?**",
+      "a": "Deux catadioptres à l'avant pour les véhicules sans batterie,\nplus de 2 mètres 10, feux de gabarit visibles de l'avant et de l'arrière.\nPour les plateformes de levage qui dépassent de 75 cm, le tour du véhicule devra avoir des feux clignotants avertisseurs placés au plus près possible du bord.\nVéhicules plus de 8 mètres, catadioptres de chaque côté latéral."
+    },
+    {
+      "id": "q061",
+      "q": "**Quels sont les véhicules qui doivent être munis d'un EDD ?**",
+      "a": "Les véhicules munis de feux bleus et d'un avertisseur à deux sons alternés."
+    },
+    {
+      "id": "q062",
+      "q": "**Quels sont les dispositifs d'éclairage obligatoires à l'avant ?**",
+      "a": "Deux feux de route avec témoin, deux feux de croisement, deux feux de position, deux clignoteurs de direction avec témoin acoustique ou optique. Et les véhicules de catégorie M et N, deux feux de circulation diurne."
+    }
+  ]
+}
